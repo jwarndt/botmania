@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scipy
+scikit-learn
+mplfinance
+yfinance
+backtrader
+discord
+python-dotenv
